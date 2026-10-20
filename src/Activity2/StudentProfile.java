@@ -20,6 +20,8 @@ public class StudentProfile {
         System.out.println("Name:MUHAMMAD SYAKIR AZHAD BIN MOHD HANAPIAH");
         System.out.print("Student Id:S87442\n");
         System.out.println("Programme:PROGRAM OF COMPUTER SCIENCE");
+        System.out.print("Semester:Semester 1");
+        System.out.println("Favourite language:Java");
     }
     
 }
